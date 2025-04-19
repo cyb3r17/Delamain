@@ -12,3 +12,8 @@ Inspired by [navlab](https://en.wikipedia.org/wiki/Navlab) .
 
 ## License
 MIT License, feel free to contribute or improve (i'm always learning :D)
+
+
+## In Action
+YouTube:
+[![delamain with Linear Regression](http://img.youtube.com/vi/y3F6SaNEcI8/0.jpg)](http://www.youtube.com/watch?v=y3F6SaNEcI8 "delamain with Linear Regression")
