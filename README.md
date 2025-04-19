@@ -1,5 +1,5 @@
 # Delamain
-A tiny project I made over the weekend to see how autonomnous driving would look with linear regression.
+A tiny project I made over the weekend to see how autonomous driving would look with linear regression.
 
 Inspired by [navlab](https://en.wikipedia.org/wiki/Navlab) .
 
